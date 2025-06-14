@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+# 🌟 Awesome Developer Portfolio
 
-## Project info
+Welcome to my **personal portfolio website** — a vibrant, modern, and fully responsive web app to showcase my journey, projects, and professional profile! 💼💻
 
-**URL**: https://lovable.dev/projects/91ed399f-a6ab-4016-983b-4d0f811211b6
+---
 
-## How can I edit this code?
+## 🔗 Live Site
 
-There are several ways of editing your application.
+🎯 [Visit My Portfolio](https://lovable.dev/projects/91ed399f-a6ab-4016-983b-4d0f811211b6)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/91ed399f-a6ab-4016-983b-4d0f811211b6) and start prompting.
+## 🎯 Features You’ll Love
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ Elegant and minimal homepage with smooth animations
+✅ Interactive project gallery with images and links 🔗
+✅ About Me section with professional background 🧑‍💼
+✅ Downloadable resume 📄
+✅ Clean, mobile-first responsive design 📱
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧰 Tech Stack Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<p align="left">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ⚙️ How to Run Locally
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+```bash
+# 📁 Clone the repository
+git clone <your-repo-url>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 🚗 Move to the project folder
+cd <project-folder>
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 📦 Install dependencies
+npm install
+
+# ▶️ Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+🌐 Visit: `http://localhost:5173`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🖼️ Screenshots
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+> *Replace with actual portfolio images*
 
-## What technologies are used for this project?
+![Home Preview](https://via.placeholder.com/1000x500?text=Home+Page+Preview)
+![Projects Section](https://via.placeholder.com/1000x500?text=Projects+Preview)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📝 License
 
-## How can I deploy this project?
+🆓 This project is free to use and customize for personal or professional use. No attribution required. 🚀
 
-Simply open [Lovable](https://lovable.dev/projects/91ed399f-a6ab-4016-983b-4d0f811211b6) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Crafted with ❤️ by Mohit Jadaun
